@@ -1,5 +1,5 @@
 ### About Me:
-I’m a **data analyst** with a bachelors and masters degree in chemical engineering. I am really interested in energy transition and sustainability. Seattle, WA, USA is home for now. I am definitely open to making new contacts and to discuss data + energy.</br>
+I’m an aspiring **data analyst** with a bachelors and masters degree in chemical engineering. I am really interested in energy transition and sustainability. Seattle, WA, USA is home for now. I am definitely open to making new contacts and to discuss data + energy.</br>
 <br/>
 
 
