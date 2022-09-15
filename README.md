@@ -1,8 +1,23 @@
-# Hello, Thanks for stoping by. 🌱
+### About Me:
+I’m a **data analyst** with a bachelors and masters degree in chemical engineering. I am really interested in energy transition and sustainability. Seattle, WA, USA is home for now. I am definitely open to making new contacts and to discuss data + energy.</br>
+<br/>
 
-<hr />
 
-<a href="https://www.linkedin.com/in/abdulabdurrahman/">
+
+#### Data analysis tools I use:
+<div style="display: inline_block">
+  <img align="center" alt="excel" height="30" width="40" src="https://img.icons8.com/color/344/ms-excel.png">
+  <img align="center" alt="python" height="30" width="40" src="https://img.icons8.com/color/72/python--v2.gif">
+  <img align="center" alt="Spring" height="30" width="40" src="https://img.icons8.com/officel/344/registered-trademark.png">
+  <img align="center" alt="react" height="30" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"> </br>
+  
+ #### Data visualization tools I use:
+<div style="display: inline_block">
+  <img align="center" alt="ts" height="30" width="40" src="https://img.icons8.com/color/72/power-bi.png">
+  <img align="center" alt="Node" height="30" width="40" src="https://img.icons8.com/color/344/tableau-software.png">
+  
+ #### My Contact: 
+  <a href="https://www.linkedin.com/in/abdulabdurrahman/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:abdurrahman.abdul@gmail.com">
@@ -10,25 +25,5 @@
 </a>
 
 <br/>
-
-### About Me 🚀
-💻 I’m a **data analyst** with a bachelors and masters degree in chemical engineering. </br> </br>
-👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
-🇺🇸 I am currently based in Seattle, WA, USA.
-💬 Open to making new contacts to discuss data + energy</br></br>
-<br/>
-<hr />
-
-<div align="center">
-  <a href="https://github.com/data-abdul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloMarquesSantos&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-abdul&layout=compact&langs_count=7&theme=gradient"/>
-</div>
-
-## ⚡ Technologies I love and use
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://img.icons8.com/color/344/python--v1.png">
-
-                                                              
+                                                            
 </div>
