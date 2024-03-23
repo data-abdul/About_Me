@@ -8,7 +8,6 @@ I’m an aspiring **data analyst** with a bachelors and masters degree in chemic
 <div style="display: inline_block">
   <img align="center" alt="excel" height="30" width="40" src="https://img.icons8.com/color/344/ms-excel.png">
   <img align="center" alt="python" height="30" width="40" src="https://img.icons8.com/color/72/python--v2.gif">
-  <img align="center" alt="Spring" height="30" width="40" src="https://img.icons8.com/officel/344/registered-trademark.png">
   <img align="center" alt="react" height="30" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"> </br>
   
  #### Data visualization tools I use:
